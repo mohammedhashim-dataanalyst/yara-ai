@@ -14,7 +14,6 @@ android {
         versionCode = 5
         versionName = "3.0.0"
     }
-    }
     buildTypes {
         debug { }
         release { isMinifyEnabled = false }
